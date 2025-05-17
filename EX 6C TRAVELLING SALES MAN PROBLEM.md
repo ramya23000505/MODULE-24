@@ -26,8 +26,8 @@ To Solve Travelling Sales man Problem for the following graph.
 
 ```
 To implement the program for TSP.
-Developed by: SATHYAA R
-Register Number: 212223100052
+Developed by: RAMYA R
+Register Number: 212223230169
 ```
 
 ```

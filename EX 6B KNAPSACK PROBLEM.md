@@ -23,8 +23,8 @@ To demonstrate a python program using dynamic programming for 0/1 knapsack probl
 
 ```
 To implement the program for 0/1 knapsack problem.
-Developed by: SATHYAA R
-Register Number: 212223100052
+Developed by: RAMYA R
+Register Number: 212223230169
 ```
 
 ```
